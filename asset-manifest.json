@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/registration-form-in-react-using-useState/static/css/main.a8f2604e.css",
+    "main.js": "/registration-form-in-react-using-useState/static/js/main.7abb5758.js",
+    "index.html": "/registration-form-in-react-using-useState/index.html",
+    "main.a8f2604e.css.map": "/registration-form-in-react-using-useState/static/css/main.a8f2604e.css.map",
+    "main.7abb5758.js.map": "/registration-form-in-react-using-useState/static/js/main.7abb5758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f2604e.css",
+    "static/js/main.7abb5758.js"
+  ]
+}
